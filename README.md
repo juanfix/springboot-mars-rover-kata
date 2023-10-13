@@ -18,10 +18,12 @@ You’re part of the team that explores Mars by sending remotely controlled vehi
 
 You can view the endpoints documentation [here](src/main/java/com/example/marsroverkata/docs/APIDocumentation.pdf).
 
+Alternatively you can use the following url when the project is running: http://localhost:8080/docs
+
 ## Development server
 
 1. Clone the repository.
-2. Open your project with some IDE (like IntelliJ IDEA).
+2. Open your project folder with some IDE (like IntelliJ IDEA).
 3. Use the Spring Boot Maven plugin like so: mvn spring-boot:run
 4. Use the url: http://localhost:8080/
 5. The application will automatically reload if you change any of the source files.
